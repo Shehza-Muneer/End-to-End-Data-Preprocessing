@@ -17,7 +17,7 @@ Both datasets are loaded directly into the workspace using the **Seaborn** libra
 
 ---
 
-## ⚡ Key Project Steps
+##  Key Project Steps
 
 ### Part 1: Data Preprocessing & Cleaning
 - Inspected dataset structures and dimensions (`shape`).
@@ -33,7 +33,7 @@ Both datasets are loaded directly into the workspace using the **Seaborn** libra
 
 ---
 
-## 📌 Key Insights (Sample)
+##  Key Insights (Sample)
 - **Housing Data:** Found strong correlation patterns between median income and house prices, alongside a clear distribution shift post-normalization.
 - **Biological Data:** Visualized the distinct statistical distributions between Malignant and Benign counts.
 
