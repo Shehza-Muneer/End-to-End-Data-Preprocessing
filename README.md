@@ -4,7 +4,7 @@ A comprehensive data science project focused on preparing, cleaning, and extract
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
